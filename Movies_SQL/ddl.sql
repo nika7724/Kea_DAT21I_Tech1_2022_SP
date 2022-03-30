@@ -1,7 +1,7 @@
 SHOW TABLES;
-#create table movies, id, title
+#create table movies, id, title, Define a primary key in movies
 
-#create table director
+#create table director, #Create a foreign key on direcotors that points to movies
 
 #create table actor
 
