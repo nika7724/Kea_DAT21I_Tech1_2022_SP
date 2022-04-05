@@ -1,0 +1,21 @@
+List 6 relational databases
+MySQL
+MariaDB
+SQLite
+Amazon Aurora
+PostgreSQL
+Microsoft SQL Server
+
+---------------------------------------------------------
+List at least 1 of each of the NoSQL categories.
+Document Databases: MongoDB
+Key-value Databases: DynamoDB
+Wide-column Stores: Scylla
+Graph Databases: neo4j
+
+----------------------------------------------------------
+List 2 in-memory databases.
+H2
+SQLite
+
+
